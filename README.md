@@ -86,7 +86,7 @@ I'm always interested in connecting with developers, exploring exciting projects
   <a href="https://github.com/AustinCodex">
     <img src="https://img.shields.io/badge/GitHub-AustinCodex-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  //<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
