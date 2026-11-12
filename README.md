@@ -78,11 +78,11 @@ I enjoy taking ideas from concept to production, creating smooth user experience
 
 <p align="center">
   <a href="PROJECT_1_LINK">
-    <img src="./assets/projects/project-one.png" width="85%" alt="Project One Screenshot" />
+    <img src="./assets/projects/pro1.png" width="40%" alt="Project One Screenshot" />
   </a>
 </p>
 
-**Description:** Write a short description of your project, its purpose, and the problem it solves.
+**Description:** A beautifully designed mobile application for Faerie Tales Creamery, focused on delivering a delightful and seamless user experience. The app combines an engaging interface, intuitive navigation, and modern mobile development to bring the creamery's brand experience to life.
 
 **Built with:** React Native · TypeScript · Firebase
 
@@ -101,7 +101,7 @@ I enjoy taking ideas from concept to production, creating smooth user experience
 
 <!-- PROJECT 2 -->
 
-### 📱 Project Two — [Your Project Name](PROJECT_2_LINK)
+<!-- ================= INTRO ================= ### 📱 Project Two — [Your Project Name](PROJECT_2_LINK)
 
 <p align="center">
   <a href="PROJECT_2_LINK">
@@ -128,7 +128,7 @@ I enjoy taking ideas from concept to production, creating smooth user experience
 
 <!-- PROJECT 3 -->
 
-### 🍎 Project Three — [Your Project Name](PROJECT_3_LINK)
+<!--### 🍎 Project Three — [Your Project Name](PROJECT_3_LINK)
 
 <p align="center">
   <a href="PROJECT_3_LINK">
@@ -144,6 +144,7 @@ I enjoy taking ideas from concept to production, creating smooth user experience
 - Native mobile development.
 - Smooth and intuitive interfaces.
 - Focus on performance and usability.
+-->
 
 <p align="center">
   <a href="PROJECT_3_LINK">
@@ -152,6 +153,7 @@ I enjoy taking ideas from concept to production, creating smooth user experience
 </p>
 
 ---
+-->
 
 <!-- ================= GITHUB STATS ================= -->
 
